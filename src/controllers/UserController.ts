@@ -16,7 +16,7 @@ export default {
         emailService.sendMail({
             to: { 
                 name: 'Thais Rocha', 
-                email: 'thais@gmail.com' 
+                email: 'thais@gmail.com.br' 
             },
             message: { 
                 subject: 'Bem-vindo ao sistema', 
