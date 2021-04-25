@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThaisOliveiraRocha/basicTypeScript.git"
+    "url": "git+https://github.com/ThaisOliveiraRocha/first-steps-typescript.git"
   },
   "author": "Thais Rocha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThaisOliveiraRocha/basicTypeScript/issues"
+    "url": "https://github.com/ThaisOliveiraRocha/first-steps-typescript/issues"
   },
-  "homepage": "https://github.com/ThaisOliveiraRocha/basicTypeScript#readme",
+  "homepage": "https://github.com/ThaisOliveiraRocha/first-steps-typescript#readme",
   "dependencies": {
     "express": "^4.17.1",
     "typescript": "^4.2.4"
